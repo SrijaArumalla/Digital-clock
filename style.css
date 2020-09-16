@@ -1,0 +1,13 @@
+#clock{
+    font-size: 80px; 
+            width: 900px; 
+            margin: 200px; 
+            text-align: center;
+            font-family: 'Share Tech Mono', monospace;
+            color: #ffffff;
+            position: absolute;
+           text-shadow: 0 0 20px rgb(155,201,235);
+} 
+body{
+  background:black;
+}
